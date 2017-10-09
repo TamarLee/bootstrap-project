@@ -1,0 +1,38 @@
+.header{
+	height: 100px;
+}
+
+.logo{
+	width: 180px;
+}
+
+.navigation{
+	font-size: 18px;
+	color:#004d99;
+	font-family: 'BPG Nino Mtavruli Bold', sans-serif;
+	
+}
+
+.date-style {
+	background-color: #004d99; 
+	padding:4px 5px; 
+	color: white; 
+	font-size: 35px;
+	display: inline-block;
+}
+
+.month-name {
+	color:#004d99; 
+	font-size: 18px;
+}
+
+.h1-style {
+	font-size:20px;
+}
+.container {
+	margin-top: 30px;
+	font-family: 'BPG Nino Mtavruli Bold', sans-serif;
+}
+.article {
+	margin-bottom: 30px;
+}
